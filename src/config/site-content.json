@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"title": "周周大王",
-		"description": "zqp的个人博客，记录开发、探索、笔记。",
+		"description": "zqp的个人博客，记录生活、探索、笔记。",
 		"username": "zqp"
 	},
 	"theme": {
@@ -44,21 +44,21 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/Yuritoko",
 			"label": "Github",
 			"order": 3
 		},
 		{
 			"id": "juejin",
 			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
+			"value": "https://github.com/Yuritoko",
 			"label": "稀土掘金",
 			"order": 2
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "1961288620@qq.com",
 			"label": "",
 			"order": 1
 		}
